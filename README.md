@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Font+Preview-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Font+Viewer-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontGoggles Free Installer** — FontGoggles is a free, open-source font previewer for macOS and Linux that provides real-time interactive OpenType feature testing, variable font axis exploration, and live text rendering. Works without internet access, no account required. Full offline installation.
+**💻 FontGoggles Free Installer** — FontGoggles is a free, open-source font viewer for macOS that specializes in variable font visualization and testing. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FontGoggles
 
-FontGoggles is a free, open-source font previewer for macOS and Linux that provides real-time interactive OpenType feature testing, variable font axis exploration, and live text rendering. Essential for font developers testing their work.
+FontGoggles is a free, open-source font viewer for macOS that specializes in variable font visualization and testing. Preview how variable fonts respond to axis changes in real time, test OpenType features, and inspect font metrics. FontGoggles is invaluable for type designers and developers who need to verify variable font behavior across the full range of design axes.
 
 ---
 
 ## ❌ Problem: FontGoggles is hard to access
 
-- **macOS and Linux Only** — No Windows version available
-- **Developer Tool** — Primarily useful for font designers testing features; not a font manager
-- **Basic Interface** — Functional for testing but not designed as a daily font browser
-- **Limited Management** — Cannot organize or activate fonts; preview and testing only
+- **macOS Only** — No Windows or Linux version
+- **Viewing Only** — Inspection tool; no font editing capabilities
+- **Variable Font Focus** — Most powerful for variable fonts; simpler for static fonts
+- **Niche Audience** — Primarily useful for type designers and font developers
 
 ---
 
@@ -121,7 +121,7 @@ FontGoggles is a free, open-source font previewer for macOS and Linux that provi
 
 ---
 
-**FontGoggles Free Installer** — FontGoggles is a free, open-source font previewer for macOS and Linux that provides real-time interactive OpenType feature testing, variable font axis exploration, and live text rendering. Install without internet connection today!
+**FontGoggles Free Installer** — FontGoggles is a free, open-source font viewer for macOS that specializes in variable font visualization and testing. Install without internet connection today!
 
 <div align="center">
 
